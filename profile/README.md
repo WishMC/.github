@@ -10,9 +10,9 @@ WishMC is a german minecraft community with over 450 members that regularly host
 All servers are available for 1.21.x
 | Server        | IP | Available
 |-----|-----|-----|
-| Wish Attack 4 | `attack.wishmc.net` | Whitelist - Open |
-| Wish Stone Attack 2 | `stone.wishmc.net` | Whitelist - Closed |
+| WishMC | `wishmc.net` | Public |
 | WishMC Events | `events.wishmc.net` | Public |
+| Wish Attack 5 | `attack.wishmc.net` | Upcoming |
 
 ## 📬 Contact & Community
 - **Discord:** [Join here](https://wishmc.net/discord)  
