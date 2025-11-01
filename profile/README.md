@@ -4,7 +4,7 @@
 [![Version](https://img.shields.io/badge/1.21.x-blue?style=for-the-badge)](https://wishmc.net/)
 
 ## About Us
-WishMC is a german minecraft community with over 450 members that regularly hosts projects and events. This includes 'WishAttack', which is now in its 4th season. Inspired by the german creator server 'Craft Attack'. This wonderful community has been around since 2022 and has already shared many great moments together. Come join us too - we're looking forward to welcome you!
+WishMC is a german minecraft community with over 650 members that regularly hosts projects and events. This includes 'WishAttack', which is now in its 5th season. Inspired by the german creator server 'Craft Attack'. This wonderful community has been around since 2022 and has already shared many great moments together. Come join us too - we're looking forward to welcome you!
 
 ## Server Information
 All servers are available for 1.21.x
@@ -12,7 +12,7 @@ All servers are available for 1.21.x
 |-----|-----|-----|
 | WishMC | `wishmc.net` | Public |
 | WishMC Events | `events.wishmc.net` | Public |
-| Wish Attack 5 | `attack.wishmc.net` | Upcoming |
+| Wish Attack 5 | `attack.wishmc.net` | Whitelist |
 
 ## 📬 Contact & Community
 - **Discord:** [Join here](https://wishmc.net/discord)  
