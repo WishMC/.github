@@ -24,5 +24,5 @@ If you enjoy the server, consider supporting us to help cover costs and develop 
 
 [![Donate here](https://img.shields.io/badge/Donate%20Here-red?style=for-the-badge)](https://buymeacoffee.com/maschlax)
 
-© 2025 **WishMC** – All rights reserved.
+© 2026 **WishMC** – All rights reserved.
 Not affiliated with Mojang or Microsoft.
